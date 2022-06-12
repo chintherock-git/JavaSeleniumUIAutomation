@@ -1,0 +1,8 @@
+name: Default suite
+configFailurePolicy: skip
+tests:
+  - name: Default test
+  verbose: 2
+  classes:
+    - IndexPageTest
+
